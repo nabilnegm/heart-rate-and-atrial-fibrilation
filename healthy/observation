@@ -1,0 +1,5 @@
+In the auto correlation it appears that the number of points above a certain threshold (in here it is 1) is much larger than that of a normal person.
+
+I suggest putting a certain threshold in the autocorrelation value above which the number of points is proportional to the Atrial Fibrillation of the person.
+
+The measure is implemented in the last part of the code with a comment showing it.
